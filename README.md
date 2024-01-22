@@ -7,27 +7,27 @@ Na tej stronie chciałbym podzielić się wszystkimi moimi doświadczeniami zdob
 
 # Umiejętności techniczne
 
-*SQL
-*API
-*HTML
-*CSS
-*JMeter
-*Chrome DevTools
-*SCRUM
-*Testowanie oprogramowania
-*Tworzenie scenariuszy testowych / przypadków testowych
-*Wykonywanie testów akceptacyjnych i systemowych aplikacji webowej
-*Wykonywanie testów E2E
-*Zgłaszanie i obsługa błędów
-*praca z dokumentacją projektową
+* SQL
+* API
+* HTML
+* CSS
+* JMeter
+* Chrome DevTools
+* SCRUM
+* Testowanie oprogramowania
+* Tworzenie scenariuszy testowych / przypadków testowych
+* Wykonywanie testów akceptacyjnych i systemowych aplikacji webowej
+* Wykonywanie testów E2E
+* Zgłaszanie i obsługa błędów
+* Praca z dokumentacją projektową
 
 # Certyfikaty
 
-*[Software tester / ISTQB](https://verified.sertifier.com/en/verify/14967931727049/?ref=email)
-*[Warsztaty z testowania oprogramowania](https://verified.sertifier.com/en/verify/45903686315673/?ref=email)
-*[Databases, SQL for testers and analysts](https://verified.sertifier.com/en/verify/69747822201899/?ref=email)
-*[Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/09024052857712/?ref=email)
-*[Basics of performance testing - JMeter](https://verified.sertifier.com/en/verify/88020471761589/?ref=email)
+* [Software tester / ISTQB](https://verified.sertifier.com/en/verify/14967931727049/?ref=email)
+* [Warsztaty z testowania oprogramowania](https://verified.sertifier.com/en/verify/45903686315673/?ref=email)
+* [Databases, SQL for testers and analysts](https://verified.sertifier.com/en/verify/69747822201899/?ref=email)
+* [Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/09024052857712/?ref=email)
+* [Basics of performance testing - JMeter](https://verified.sertifier.com/en/verify/88020471761589/?ref=email)
 
 # Moje przykłady scenariuszy testowych
 
