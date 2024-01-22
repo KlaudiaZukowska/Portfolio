@@ -33,12 +33,19 @@ Na tej stronie chciałbym podzielić się wszystkimi moimi doświadczeniami zdob
 
 
 # Moje przykłady scenariuszy testowych
+* [Scenariusze Testowe](https://docs.google.com/spreadsheets/d/1-_SAIhu9nLwYisdWURTXQPPpTDfcQXt7/edit?usp=drive_link&ouid=114041096437857829495&rtpof=true&sd=true)
 
 # Moje raporty o błędach
+* [Zgłaszanie błędu](https://drive.google.com/file/d/1toDMhDgKyc4zow8LMf4WrNmcX9SV8X7L/view?usp=drive_link)
 
 # Moje przykłady testowania API
+* [Screen 1](https://drive.google.com/file/d/12DGpJkfe84sTBWxEAPzUm0gRx89XfaRa/view?usp=drive_link)
+* [Screen 2](https://drive.google.com/file/d/1kgJYhGUSUV4PvkZmy5wgjlporGprDPy0/view?usp=drive_link)
+* [Screen 3](https://drive.google.com/file/d/1d1HBWQiMPpmnWEP0MC-Rpe6ESHPEIib7/view?usp=drive_link)
+* [Screen 4](https://drive.google.com/file/d/1Zu2AZE6T9qV621qVlrw015oH-HGedrsS/view?usp=drive_link)
 
-# Moje zapytania w SQL
+
+
 
 
 
