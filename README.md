@@ -23,6 +23,7 @@ Na tej stronie chciałabym podzielić się wszystkimi moimi doświadczeniami zdo
 
 # Certyfikaty
 
+* [Training and internship project Junior Software Tester](https://verified.sertifier.com/en/verify/10484811281025/?ref=email)
 * [Software tester / ISTQB](https://verified.sertifier.com/en/verify/14967931727049/?ref=email)
 * [Warsztaty z testowania oprogramowania](https://verified.sertifier.com/en/verify/45903686315673/?ref=email)
 * [Databases, SQL for testers and analysts](https://verified.sertifier.com/en/verify/69747822201899/?ref=email)
